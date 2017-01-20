@@ -1,0 +1,34 @@
+languageCode = "en-gb"
+title = "Aerial"
+baseurl = "http://initd.cz/"
+theme = "aerial"
+
+[params]
+  name = "Adam Štrauch"
+  about = "Developer &nbsp;&bull;&nbsp; Admin &nbsp;&bull;&nbsp; Problem solver"
+  copyright = ""
+
+[[params.social]]
+  medium = "Twitter"
+  icon = "twitter"
+  link = "//twitter.com/byCx"
+
+[[params.social]]
+  medium = "LinkedIn"
+  icon = "linkedin"
+  link = "//cz.linkedin.com/in/adam-štrauch-88047442"
+
+[[params.social]]
+  medium = "Facebook"
+  icon = "facebook"
+  link = "//www.facebook.com/AdamStrauch"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "//github.com/creckx"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:cx@initd.cz"
