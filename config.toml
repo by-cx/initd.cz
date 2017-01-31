@@ -3,10 +3,18 @@ title = "Adam Štrauch"
 baseurl = "http://initd.cz/"
 theme = "aerial"
 
+# icons are here: http://fontawesome.io/icons/
+
 [params]
   name = "Adam Štrauch"
   about = "Developer &nbsp;&bull;&nbsp; Admin &nbsp;&bull;&nbsp; Problem solver"
   copyright = ""
+
+
+[[params.social]]
+  medium = "Blog"
+  icon = "globe"
+  link = "//uroboros.xyz"
 
 [[params.social]]
   medium = "Twitter"
